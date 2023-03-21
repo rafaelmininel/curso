@@ -19,10 +19,10 @@ body {
 }
 
 #header {
-   background-image: url(images/hero_bolo.jpg);
-   background-size: cover;
-   background-position: center;
-   height: 400px;
+    background-image: url(images/hero_bolo.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
 }
 
 .content {
